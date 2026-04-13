@@ -1,0 +1,4 @@
+Nodes,Exact Distance,Heuristic Distance,Gap %,Exact Runtime (s),Heuristic Runtime (s)
+8,140.09,140.09,0.0,0.000288,8e-05
+10,172.04,174.55,1.46,0.002153,0.000111
+13,189.31,193.51,2.22,0.030646,0.000224
